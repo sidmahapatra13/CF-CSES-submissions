@@ -24,21 +24,13 @@ CP-Leet-Submissions/
 │   ├── 1000/
 │   ├── 1100/
 │   ├── 1200/
+│   ├── 1300/
 │   └── Contests/
 │       ├── 1101-Div2/
 │       ├── 1114-Div3/
 │       └── 191-Educational-Div2/
 │
 ├── CSES/                           # CSES Problem Set
-│
-├── Leetcode/                       # by topic
-│   ├── arrays/
-│   ├── binary-search/
-│   ├── dp/
-│   ├── graphs/
-│   ├── linked-List/
-│   ├── strings/
-│   └── trees/
 │
 └── README.md
 ```
