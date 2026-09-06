@@ -13,19 +13,6 @@ My solutions and progress across competitive programming platforms.
 
 ---
 
-## Progress
-
-| Section | Solved |
-|---------|--------|
-| Codeforces 800 | 25 |
-| Codeforces 900 | 4 |
-| Codeforces 1000 | 3 |
-| Codeforces Contests | 5 |
-| CSES | 3 |
-| **Total** | **40** |
-
----
-
 ## Repository Structure
 
 ```text
