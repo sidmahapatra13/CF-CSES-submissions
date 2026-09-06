@@ -1,2 +1,0 @@
-# Graphs
-Leetcode graph problems.

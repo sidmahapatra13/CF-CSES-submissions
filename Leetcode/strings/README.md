@@ -1,2 +1,0 @@
-# Strings
-Leetcode string problems.
