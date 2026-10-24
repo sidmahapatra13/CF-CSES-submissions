@@ -10,6 +10,7 @@ My solutions and progress across competitive programming platforms.
 |----------|-------|---------|
 | [Codeforces](https://codeforces.com/profile/JPEGMafia13) | Competitive programming & contests | JPEGMafia13 |
 | [CSES](https://cses.fi/user/377564) | Problem Set / DSA | sidmahapatra13 |
+| [Leetcode](https://leetcode.com/u/sidmahapatra/) | Problem Solving / DSA | sidmahapatra |
 
 ---
 
